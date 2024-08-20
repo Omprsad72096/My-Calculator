@@ -1,14 +1,14 @@
 Calculator Project
 
 Table of Contents :-
-1. Introduction
-2. Features
-3. Technologies Used
-4. Usage
-5. Project Structure
-6. Future Improvements
-7. Contributing
-8. Acknowledgments
+i. Introduction
+ii. Features
+iii. Technologies Used
+iv. Usage
+v. Project Structure
+vi. Future Improvements
+vii. Contributing
+viii. Acknowledgments
 
 1. Introduction :-
 Welcome to the Calculator Project! This project is a simple yet functional calculator created using HTML, CSS, and JavaScript. It is designed with a sleek interface and performs basic arithmetic operations.
